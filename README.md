@@ -2,10 +2,10 @@
 #### Technical Skills: Python, Java Script
 
 
-##About me (Profile section)
+## About me (Profile section)
 -name: Elijah She Yu Sheng
 -Age: 19
--Hometown: Miri,Sarwak
+-Hometown | Miri,Sarwak
 - Birthday | 13/04/2004
 - Introduce myself | A stduent who is curious and eager to learn new things.
 - Hobbies | Play and play 
