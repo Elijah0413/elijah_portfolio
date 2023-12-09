@@ -3,14 +3,14 @@
 
 
 ##About me (Profile section)
-name: Elijah She Yu Sheng
-Age: 19
-Hometown: Miri,Sarwak
-Birthday: 13/04/2004
-Introduce myself:  A stduent who is curious and eager to learn new things.
-Hobbies: Play and play 
-Ambition: Software Developer
-Skills: C++,Cooking
+-name: Elijah She Yu Sheng
+-Age: 19
+-Hometown: Miri,Sarwak
+-Birthday: 13/04/2004
+-Introduce myself:  A stduent who is curious and eager to learn new things.
+-Hobbies: Play and play 
+-Ambition: Software Developer
+-Skills: C++,Cooking
 
 ## Education
 - Bachelor of Data Science Year 1 ,  | The University of Technology Malaysia (_1st of October 2023_)								       		
@@ -19,21 +19,21 @@ Skills: C++,Cooking
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-Sale Promoter 
-Touch n'Go
-practices communicating skills with various language 
-Works closely with the team. 
+-Sale Promoter 
+-Touch n'Go
+-practices communicating skills with various language 
+-Works closely with the team. 
 
-Cashier
-Tiong Hee Auto Supply (Krokop)
-Syarikat Kai Nguong Nursery Sdn Bhd
-accounting skills have been increased. Organzation of files.
-good communicating with customer.
+-Cashier
+-Tiong Hee Auto Supply (Krokop)
+-Syarikat Kai Nguong Nursery Sdn Bhd
+-accounting skills have been increased. Organzation of files.
+-good communicating with customer.
 
-WAITER
-Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
-serve food and beverage
-know how to provide customer need
+-WAITER
+-Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
+-serve food and beverage
+-know how to provide customer need
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
