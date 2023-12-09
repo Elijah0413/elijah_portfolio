@@ -18,7 +18,6 @@
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 -Sale Promoter 
 -Touch n'Go
 -practices communicating skills with various language 
