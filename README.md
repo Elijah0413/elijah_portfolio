@@ -3,9 +3,9 @@
 
 
 ## About me (Profile section)
--name: Elijah She Yu Sheng
--Age: 19
--Hometown | Miri,Sarwak
+- name | Elijah She Yu Sheng
+- Age | 19
+- Hometown | Miri,Sarwak
 - Birthday | 13/04/2004
 - Introduce myself | A stduent who is curious and eager to learn new things.
 - Hobbies | Play and play 
@@ -13,7 +13,7 @@
 - Skills | C++,Cooking
 
 ## Education
-- Bachelor of Data Science Year 1 ,  | The University of Technology Malaysia (_1st of October 2023_)								       		
+- Bachelor of Data Science Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
 - Matriculation Students, Computer Science	| Labuan Matriculation College(_July 2022_)	 	 			        		
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
