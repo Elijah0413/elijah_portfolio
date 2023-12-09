@@ -1,15 +1,39 @@
 # Data engineering students
 #### Technical Skills: Python, Java Script
 
+
+##About me (Profile section)
+name: Elijah She Yu Sheng
+Age: 19
+Hometown: Miri,Sarwak
+Birthday: 13/04/2004
+Introduce myself:  A stduent who is curious and eager to learn new things.
+Hobbies: Play and play 
+Ambition: Software Developer
+Skills: C++,Cooking
+
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Data Science Year 1 ,  | The University of Technology Malaysia (_1st of October 2023_)								       		
+- Matriculation Students, Computer Science	| Labuan Matriculation College(_July 2022_)	 	 			        		
+- Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+Sale Promoter 
+Touch n'Go
+practices communicating skills with various language 
+Works closely with the team. 
+
+Cashier
+Tiong Hee Auto Supply (Krokop)
+Syarikat Kai Nguong Nursery Sdn Bhd
+accounting skills have been increased. Organzation of files.
+good communicating with customer.
+
+WAITER
+Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
+serve food and beverage
+know how to provide customer need
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
