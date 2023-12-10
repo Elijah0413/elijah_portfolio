@@ -27,15 +27,15 @@
 > Works closely with the team. 
 
 ### Cashier
-- Tiong Hee Auto Supply (Krokop)
-- Syarikat Kai Nguong Nursery Sdn Bhd
-- accounting skills have been increased. Organzation of files.
-- good communicating with customer.
+> Tiong Hee Auto Supply (Krokop)
+> Syarikat Kai Nguong Nursery Sdn Bhd
+> accounting skills have been increased. Organzation of files.
+> good communicating with customer.
 
-- WAITER
-- Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
-- serve food and beverage
-- know how to provide customer need
+> WAITER
+> Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
+> serve food and beverage
+> know how to provide customer need
 
 
 
