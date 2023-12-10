@@ -1,6 +1,6 @@
 # Data engineering students
-#### Technical Skills: Python, Java <img src="assets/img/language icon.png" alt= "language icon" width="100" height="100">
-
+#### Technical Skills: Python, Java 
+<p align="left">  <img src="assets/img/language icon.png" alt= "language icon" width="100" height="100"> /> </p>
 
 
 
