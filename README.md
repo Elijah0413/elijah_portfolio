@@ -1,9 +1,4 @@
 # Data engineering students
-#### Technical Skills: Python, Java 
-<img src="assets/img/language icon.png" alt= "language icon" width="300" height="300"> 
-
-
-
 
 ## About me (Profile section)
 - name | Elijah She Yu Sheng
@@ -14,6 +9,7 @@
 - Hobbies | Play and play 
 - Ambition | Software Developer
 - Skills | _C++,Cooking_
+<img src="assets/img/language icon.png" alt= "language icon" width="300" height="300"> 
 
 ## **Education**
 - Bachelor of _Data Science_ Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
