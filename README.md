@@ -48,7 +48,7 @@
 Activate to view larger image,
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Career](assets/img/caeer.jpeg)
 
 ### Assignment 2 (Presentation Ch 7 & 8)
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
