@@ -35,7 +35,7 @@
 
 
 
-## **Assignment**
+# **Assignment**
 ### Assignment 1 (Career Development)
 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
@@ -47,16 +47,16 @@
 ### Assignment 2 (Presentation Ch 7 & 8)
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
 
-### *Discussion photo ~_~*
+## *Discussion photo ~_~*
 ![discussion](assets/img/discussion.jpeg)
 
 
-### Assignment 3 (Design Thinking)
+## Assignment 3 (Design Thinking)
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-### Assignment 5 (Video on UTMDigital)
+## Assignment 5 (Video on UTMDigital)
 
 
 - [Data Science Blog](https://medium.com/@shawhin)
