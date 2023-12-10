@@ -1,5 +1,5 @@
 # Data engineering students
-#### Technical Skills: Python, Java Script
+#### Technical Skills: Python, Java(assets/img/Trend Mind Map Diagram .png)
 
 
 ## About me (Profile section)
