@@ -1,7 +1,7 @@
 # Data engineering students
 #### Technical Skills: Python, Java 
 <img src="assets/img/language icon.png" alt= "language icon" width="300" height="300"> 
-<span style="color:blue">some *This is Blue italic.* text</span>
+< style="color:blue">some *This is Blue italic.* </span>
 
 
 
