@@ -1,6 +1,7 @@
 # Data engineering students
 #### Technical Skills: Python, Java 
-<img src="assets/img/language icon.png">
+
+<img src="assets/img/language icon.png" alt= language icon"" width="100" height="100">
 
 
 
@@ -12,7 +13,7 @@
 - Introduce myself | A stduent who is curious and eager to learn new things.
 - Hobbies | Play and play 
 - Ambition | Software Developer
-- Skills | C++,Cooking
+- Skills | _C++,Cooking_
 
 ## Education
 - Bachelor of Data Science Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
@@ -20,12 +21,12 @@
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
 ## Work Experience
-- Sale Promoter 
-- Touch n'Go
-- practices communicating skills with various language 
-- Works closely with the team. 
+### Sale Promoter 
+>  Touch n'Go
+> practices communicating skills with various language 
+> Works closely with the team. 
 
-- Cashier
+### Cashier
 - Tiong Hee Auto Supply (Krokop)
 - Syarikat Kai Nguong Nursery Sdn Bhd
 - accounting skills have been increased. Organzation of files.
