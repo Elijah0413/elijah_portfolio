@@ -1,6 +1,7 @@
 # Data engineering students
 #### Technical Skills: Python, Java 
-![Java](/assets/img/Trend Mind Map Diagram .png)
+![EEG Band Discovery](assets/img/Trend Mind Map Diagram.png)
+
 
 
 ## About me (Profile section)
