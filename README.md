@@ -8,7 +8,7 @@
 - Introduce myself | A stduent who is curious and eager to learn new things.
 - Hobbies | Play and play 
 - Ambition | Software Developer
-- Skills | _C++,Cooking_
+- Skills | C++,Cooking
 <img src="assets/img/language icon.png" alt= "language icon" width="300" height="300"> 
 
 ## **Education**
