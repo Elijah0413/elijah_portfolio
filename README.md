@@ -15,36 +15,38 @@
 - Ambition | Software Developer
 - Skills | _C++,Cooking_
 
-## Education
-- Bachelor of Data Science Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
+## **Education**
+- Bachelor of _Data Science_ Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
 - Matriculation Students, Computer Science	| Labuan Matriculation College(_July 2022_)	 	 			        		
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
-## Work Experience
+## **Work Experience**
 ### Sale Promoter 
 >  Touch n'Go
-> practices communicating skills with various language 
-> Works closely with the team. 
+> - _practices communicating skills with various language_
+> - _Works closely with the team._
 
-### Cashier
+### **Cashier**
 > Tiong Hee Auto Supply (Krokop)
 > Syarikat Kai Nguong Nursery Sdn Bhd
-> accounting skills have been increased. Organzation of files.
-> good communicating with customer.
+> - _accounting skills have been increased. Organzation of files._
+> - _good communicating with customer._
 
 > WAITER
 > Wan Xiang Noodle Shop, Roman Bakery, 123 Family Cafe
-> serve food and beverage
-> know how to provide customer need
+> - _serve food and beverage_
+> - _know how to provide customer need_
 
 
 
-## Assignment
+## **Assignment**
 ### Assignment 1 (Career Development)
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Poster linkedin]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+> Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
+Activate to view larger image,
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
