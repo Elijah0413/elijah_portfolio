@@ -5,7 +5,7 @@
 - Age | 19
 - Hometown | [Miri,Sarawak](https://maps.app.goo.gl/NJ4rPcbrBez1TKh2A)
 - Birthday | 13/04/2004
-  <p align="left"> <a href="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg"<img src="[https://img.freepik.com/free-vector/sticker-design-with-chef-girl-cooking-food-cartoon-character_1308-64629.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702080000&semt=ais](https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg)" alt="bootstrap" width="40" height="40"/> </a>
+  <p align="left"> <a href="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg"> <img src="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg" alt="bootstrap" width="40" height="40"/> </a></p>
 - Introduce myself | A stduent who is curious and eager to learn new things.
 - Hobbies | Play and play 
 - Ambition | Software Developer
