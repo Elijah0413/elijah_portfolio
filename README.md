@@ -5,8 +5,7 @@
 - Age | 19
 - Hometown | [Miri,Sarawak](https://maps.app.goo.gl/NJ4rPcbrBez1TKh2A)
 - Birthday | 13/04/2004
-  <p align="left"> <a href="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg"> <img src="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg" alt="bootstrap" width="40" height="40"/>   </a> <a href="https://img.tukuppt.com/ad_preview/00/40/41/VQuXZu8Opv.jpg!/both/260x260"> <img src="https://img.tukuppt.com/ad_preview/00/40/41/VQuXZu8Opv.jpg!/both/260x260" alt="bootstrap" width="40" height="40"/> </a><a href=""> <img src="" alt="bootstrap" width="40" height="40"/> 
-  </a>
+  <p align="left"> <a href="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg"> <img src="https://s.yimg.com/ny/api/res/1.2/0M7SFDLsMZqKAxIgBnLGvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTYwMDtoPTc2OQ--/https://media.zenfs.com/zh_hant_tw/News/bcc/2e002690ee_hmz_20140808_1306.jpg" alt="bootstrap" width="40" height="40"/>   </a> <a href="https://img.tukuppt.com/ad_preview/00/40/41/VQuXZu8Opv.jpg!/both/260x260"> <img src="https://img.tukuppt.com/ad_preview/00/40/41/VQuXZu8Opv.jpg!/both/260x260" alt="bootstrap" width="40" height="40"/> </a><a href=""> <img src="" alt="bootstrap" width="40" height="40"/> </a></a><a href=""> <img src="" alt="bootstrap" width="40" height="40"/></a>
   </p>
   
 - Introduce myself | A stduent who is curious and eager to learn new things.
