@@ -10,7 +10,6 @@ This experience felt like a once-in-a-lifetime opportunity that I will never for
 <br>
  
  <img src="https://www.your10.co.in/wp-content/uploads/2020/08/SMPS.jpg" alt="The interior of the PC that was disassembled"/>
-    <p>The interior of the PC that was disassembled</p>
     <br><br><br>
 
 PC assembly (_research >-<)
