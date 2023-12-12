@@ -6,5 +6,41 @@
 
 Afterwards, we inserted the cooler fan into the processor and secured it. The power supply wire was also connected to the motherboard. Following that, the RAM board was inserted into the frame. Finally, we plugged in the VGA card, wire card, and all other cables before installing the cover case.
 
-This experience felt like a once-in-a-lifetime opportunity that I will never forget. I also learned about the functions of each component in the CPU and how they contribute to the overall system, thanks to Dr. Aryati and the technicians.</p>
+This experience felt like a once-in-a-lifetime opportunity that I will never forget. I also learned about the functions of each component in the CPU and how they contribute to the overall system, thanks to Dr. Aryati and the technicians.
+
+PC assembly (_research >-<)
+
+Pc assembly
+https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/
+
+https://youtu.be/BL4DCEp7blY?si=hY_Wbo88pebVbctQ
+
+Basic desktop setup
+https://www.instructables.com/How-To-Assemble-A-Basic-Desktop-PC/
+
+Word instruction(pc assembly)
+https://www.build-gaming-computers.com/how-to-assemble-a-pc.html#step1
+
+
+
+
+Wirng pc assembly(video)
+https://youtu.be/WwYSSBNgyeQ?si=4yvPrhvbbLBcg0BV
+
+Wirng pc assembly(pic and word)
+https://www.alphr.com/features/378919/how-to-fit-the-internal-cables/
+
+https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html
+
+https://bskillforum.bharatskills.gov.in/DashBoadUpload/Others-EBOOK-28Oct2022131021.pdf
+
+https://cdnsm5-ss6.sharpschool.com/UserFiles/Servers/Server_20856499/File/Teacher%20Pages/Lindsay%20Dolezal/IT%20Essentials/1.1.2.pdf
+
+https://www.tutorialsweb.com/computers/pc-motherboard-2.htm
+
+https://hardwaresfera.com/en/articulos/conectores-pc-placa-base/
+
+
+
+</p>
     
