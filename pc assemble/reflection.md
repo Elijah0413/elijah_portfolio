@@ -24,7 +24,7 @@ https://www.build-gaming-computers.com/how-to-assemble-a-pc.html#step1
 
 
 
-Wirng pc assembly(video)
+pc assembly(video)
 https://youtu.be/WwYSSBNgyeQ?si=4yvPrhvbbLBcg0BV
 
 Wirng pc assembly(pic and word)
