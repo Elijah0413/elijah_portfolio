@@ -51,7 +51,11 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 <a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
 </td>
 <td width="25%">
-<a href="https://github.com/Elijah0413/discrete-structure"> Technology and information System (tis) </a>
+<a href="https://github.com/Elijah0413/tis-technology-and-info-system"> Technology and information System (tis) </a>
+</td>
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
 </td>
 </tr>
 </table>
