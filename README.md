@@ -1,11 +1,4 @@
-# ‘——Data engineering’ students
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-
-
-
+# Data engineering students
 ## About me (Profile section)
 - name | Elijah She Yu Sheng
 - Age | 19
