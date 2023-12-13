@@ -42,7 +42,7 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 <table>
 <tr>
 <td width="25%">
-<a href="">Digital Logic</a>
+<a href="https://github.com/Elijah0413/digital-logic">Digital Logic</a>
 </td>
 <td width="25%">
 <a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
@@ -55,7 +55,7 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </td>
 </td>
 <td width="25%">
-<a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
+<a href="https://github.com/Elijah0413/pt1_year1">Programming Technique 1 </a>
 </td>
 </tr>
 </table>
