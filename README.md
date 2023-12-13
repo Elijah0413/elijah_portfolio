@@ -1,4 +1,4 @@
-<p> <img align="right" width="50%" src="" /> 
+<p> <img align="right" width="50%" src="assets/img/video" /> 
 
 
 
