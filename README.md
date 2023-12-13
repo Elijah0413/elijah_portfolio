@@ -44,19 +44,16 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.ðŸ¤
 
 <td width="25%">
 <a href="https://github.com/Elijah0413/digital-logic">Digital Logic</a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a>
 
 </td>
 
 <td width="25%">
 <a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
-- <a href="https://github.com/Elijah0413/discrete-structure" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYPhZoWPl7S28Kdjxw7E97-5ylPqQ84-Lew&usqp=CAU" alt="html5" width="40" height="40"/> </a>
 
 </td>
 
 <td width="25%">
 <a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a>
 
 </td>
 <td width="25%">
@@ -70,5 +67,5 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.ðŸ¤
 </tr>
 </table>
 
- <a href="https://github.com/Elijah0413/discrete-structure" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYPhZoWPl7S28Kdjxw7E97-5ylPqQ84-Lew&usqp=CAU" alt="html5" width="150" height="150"/> </a>
+<p align="left"> <a href="https://github.com/Elijah0413/discrete-structure" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYPhZoWPl7S28Kdjxw7E97-5ylPqQ84-Lew&usqp=CAU" alt="html5" width="150" height="150"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a> </p>
 
