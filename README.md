@@ -35,7 +35,26 @@
 > - _serve food and beverage_
 > - _know how to provide customer need_
 
+# UTM-e-Portfolio
 
+All projects done for TIS - SECP1513 Section 05 will be stored here.
+
+<table>
+<tr>
+<td width="25%">
+<a href="">Digital Logic</a>
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
+</td>
+<td width="25%">
+<a href="https://github.com/Elijah0413/discrete-structure"> Technology and information System (tis) </a>
+</td>
+</tr>
+</table>
 
 # **Assignment**
 ### Assignment 1 (Career Development)
