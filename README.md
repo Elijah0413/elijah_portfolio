@@ -1,4 +1,4 @@
-<p> <img align="right" width="50%" src="https://drive.google.com/file/d/1CKMlOzswRVb9vcVZNoBHb6IbacgsfIx_/view?usp=drive_link" /> 
+<p> <img align="right" width="100%" src="https://drive.google.com/file/d/1CKMlOzswRVb9vcVZNoBHb6IbacgsfIx_/view?usp=drive_link" /> 
 
 
 
