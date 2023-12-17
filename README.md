@@ -17,11 +17,22 @@
 - Skills | C++,Cooking
 - <p align="left"> <a href="https://insanelygoodrecipes.com/wp-content/uploads/2021/01/Asian-Orange-Chicken-with-Green-Onions.png" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-vector/sticker-design-with-chef-girl-cooking-food-cartoon-character_1308-64629.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702080000&semt=ais" alt="bootstrap" width="40" height="40"/> </a> <a href="(https://maps.app.goo.gl/NJ4rPcbrBez1TKh2A" rel="noreferrer"> <img src="https://rb.gy/giif9m" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://thumb.ac-illust.com/9a/9a758ff7ec5995f14f65a6834d44c0f8_t.jpeg" target="_blank" rel="noreferrer"> <img src="https://thumb.ac-illust.com/9a/9a758ff7ec5995f14f65a6834d44c0f8_t.jpeg" alt="html5" width="40" height="40"/> </a> </p>
 
+
+#
+
+<details>
+ <summary><h2>🚸About education</h2></summary>
 ## **Education**
 - Bachelor of _Data Science_ Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
 - Matriculation Students, Computer Science	| Labuan Matriculation College(_July 2022_)	 	 			        		
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
 
+
+
+#
+
+<details>
+ <summary><h3>💪About Work Experience</h3></summary>
 ## **Work Experience**
 ### Sale Promoter 
 >  Touch n'Go
@@ -76,10 +87,4 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.�
 
 
 
-
-#
-
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 
