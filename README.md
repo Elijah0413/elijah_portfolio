@@ -1,6 +1,8 @@
 # Data engineering students
 ## About me (Profile section)
+
 #
+
 <about me>
   <detail><h1>Hello😆😆</h1></detail>
 - name | Elijah She Yu Sheng
@@ -73,13 +75,7 @@ All projects done for Data Engineering year 1 Section 02 will be stored here.�
 
 
 
-#
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
