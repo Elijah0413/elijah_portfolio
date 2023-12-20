@@ -8,7 +8,8 @@
 
 <details>
  <summary><h1>👨‍💻About me</h1></summary>
-- name | Elijah She Yu Sheng
+
+ - name | Elijah She Yu Sheng
 - Age | 19
 - Hometown | [Miri,Sarawak](https://maps.app.goo.gl/NJ4rPcbrBez1TKh2A)
 - Birthday | 13/04/2004
@@ -29,7 +30,8 @@
 
 <details>
  <summary><h2>🚸About education</h2></summary>
-## **Education**
+
+ ## **Education**
 - Bachelor of _Data Science_ Year 1 Student  | The University of Technology Malaysia (_1st of October 2023_)								       		
 - Matriculation Students, Computer Science	| Labuan Matriculation College(_July 2022_)	 	 			        		
 - Secondary Students, Pure Sciences | SMK Chung Hua Miri (_January 2017_)
@@ -40,6 +42,7 @@
 
 <details>
  <summary><h3>💪About Work Experience</h3></summary>
+
 ## **Work Experience**
 ### Sale Promoter 
 >  Touch n'Go
