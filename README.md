@@ -1,6 +1,7 @@
 # Data engineering students
 
-[data](assets/img/data1.png)
+<p> <img align="right" width="100%" src="assets/img/data1.png" />
+
 ## About me (Profile section)
 
 #
