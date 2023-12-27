@@ -2,6 +2,7 @@
 
 <p> <img align="right" width="100%" src="https://www.udacity.com/blog/wp-content/uploads/2020/07/Data-Engineer_Blog-scaled.jpeg" />
 
+
 ## About me (Profile section)
 
 #
