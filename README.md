@@ -1,6 +1,6 @@
 # Data engineering students 😆💪💪UwU
 
-<p> <img align="right" width="100%" src="https://www.udacity.com/blog/wp-content/uploads/2020/07/Data-Engineer_Blog-scaled.jpeg" />
+<p> <img align="right" width="100%" src="https://www.udacity.com/blog/wp-content/uploads/2020/07/Data-Engineer_Blog-scaled.jpe" />
 
 
 ## About me (Profile section)
